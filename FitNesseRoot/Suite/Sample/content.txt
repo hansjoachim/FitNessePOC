@@ -1,0 +1,10 @@
+!***< Hidden
+
+!define TEST_SYSTEM {slim}
+*!
+
+!2 This is disabled
+
+| eg.Division |
+| numerator | denominator | quotient? |
+| 10 | 3 | 3|
